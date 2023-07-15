@@ -4,6 +4,8 @@
 - БЭМ
 - Flexbox
 - Pixel Perfect
+- Кроссбраузерность
+- Доступность
 
 # Figma
 https://www.figma.com/file/9ZBnSDaQlGmp4CcvgxVQwR/Cld
