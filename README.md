@@ -6,6 +6,7 @@
 - Pixel Perfect
 - Кроссбраузерность
 - Доступность
+- jQuery
 
 # Figma
 https://www.figma.com/file/9ZBnSDaQlGmp4CcvgxVQwR/Cld
